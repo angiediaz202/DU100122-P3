@@ -3,3 +3,6 @@ MindRent es una aplicación web creada para conectar a mentores con mentees (apr
 
 # Vídeo 1
 https://youtu.be/-bTOxijuJG4
+
+#Link de App
+https://angie-diazs-team-1.adalo.com/mindrent
